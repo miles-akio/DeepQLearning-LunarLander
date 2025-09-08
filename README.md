@@ -1,11 +1,8 @@
-# DeepQLearning-LunarLander
-
-Got it — you want this converted into a **project-style README** where it sounds like you are explaining your own project (not a lab assignment). I’ll reframe it in that voice, simplify/remove references to “exercises,” “graded cells,” and “autograders,” and keep it professional but approachable. Here’s a rewritten `README.md`:
+# Deep Q-Learning - Lunar Lander 🚀
 
 ---
 
 ````markdown
-# Deep Q-Learning - Lunar Lander 🚀
 
 This project demonstrates how I built and trained a Deep Q-Network (DQN) agent to safely land a lunar lander on the moon using reinforcement learning. The environment is based on [OpenAI Gym’s LunarLander-v2](https://www.gymlibrary.dev/environments/box2d/lunar_lander/).
 
