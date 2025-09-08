@@ -220,6 +220,3 @@ Once trained, I used a helper function to generate a video of the lander success
 ```
 
 ---
-
-Would you like me to also **add setup instructions** (Python version, `pip install -r requirements.txt`, etc.) so someone could clone and run your project easily?
-```
